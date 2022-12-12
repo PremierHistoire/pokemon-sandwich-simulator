@@ -234,7 +234,7 @@ function App() {
       <div className='active-ingredients-bkg'>
         {activeFillings.map((x, i) => renderFilling(x, i, true))}
         {activeCondiments.map((x, i) => renderCondiment(x, i, true))}
-        {showClear && <span className='clear-ingredients' onClick={() => clearIngredients()}>clear</span>}
+        {showClear && <span className='clear-ingredients' onClick={() => clearIngredients()}>クリア</span>}
       </div>
     )
   };
@@ -398,16 +398,16 @@ function App() {
     return (
       <div className='search-panel'>
         <div className='search-bars-div'>
-          <input type="text" id="nameSearch" placeholder='Search names' className='search-bar'
+          <input type="text" id="nameSearch" placeholder='名前検索' className='search-bar'
             onChange={ev => search(ev, "name")} style={{ width: "250px" }}
           />
-          <input type="text" id="effectSearch" placeholder='Search effects (egg, raid, etc)' className='search-bar'
+          <input type="text" id="effectSearch" placeholder='効果検索 (たまご,レイドなど)' className='search-bar'
             onChange={ev => search(ev, "effect")} style={{ width: "250px" }}
           />
-          <input type="text" id="typeSearch" placeholder='Search types (normal, dark, etc)' className='search-bar'
+          <input type="text" id="typeSearch" placeholder='タイプ検索 (ノーマル,あくなど)' className='search-bar'
             onChange={ev => search(ev, "type")} style={{ width: "250px" }}
           />
-          <input type="text" id="ingredientSearch" placeholder='Search ingredients (ham, bacon, etc)' className='search-bar'
+          <input type="text" id="ingredientSearch" placeholder='材料検索 (ハムスライス,焼きベーコンなど)' className='search-bar'
             onChange={ev => search(ev, "ingredient")} style={{ width: "250px" }}
           />
         </div>
@@ -478,7 +478,7 @@ function App() {
     copyTextToClipboard(copyStr);
 
     if (!DISABLE_ALERTS) {
-      alert("Copied recipe to clipboard!\n" + copyStr);
+      alert("レシピをクリップボードにコピーしました！\n" + copyStr);
     }
   };
 
@@ -501,14 +501,14 @@ function App() {
   const renderSettings = () => {
     return (
       <div className='settings-bar'>
-        <button className='button-spacing' onClick={() => setSimpleMode(!simpleMode)}>Toggle Simple Mode: {simpleMode ? "On" : "Off"}</button>
-        <button className='button-spacing' onClick={() => setShowSearchPanel(!showSearchPanel)}>Toggle Search Panel</button>
-        <button className='button-spacing' onClick={() => setMegaSandwichMode(!megaSandwichMode)}>Toggle Multiplayer Mode: {megaSandwichMode ? "On" : "Off"}</button>
-        <button className='button-spacing' onClick={() => loadRecipe()}>Load Recipe</button>
-        <button className='button-spacing' onClick={() => saveRecipe()}>Save Recipe</button>
+        <button className='button-spacing' onClick={() => setSimpleMode(!simpleMode)}>シンプルモード: {simpleMode ? "On" : "Off"}</button>
+        <button className='button-spacing' onClick={() => setMegaSandwichMode(!megaSandwichMode)}>マルチモード: {megaSandwichMode ? "On" : "Off"}</button>
+        <button className='button-spacing' onClick={() => loadRecipe()}>レシピ読み込み</button>
+        <button className='button-spacing' onClick={() => saveRecipe()}>レシピ保存</button>
       </div>
     );
   };
+//<button className='button-spacing' onClick={() => setShowSearchPanel(!showSearchPanel)}>検索画面</button> レシピ検索未実装
 
   return (
     <div className="App">
@@ -519,7 +519,7 @@ function App() {
       {renderMath()}
       {renderSearch()}
       {renderSettings()}
-      <small><a href="https://github.com/cecilbowen/pokemon-sandwich-simulator">Source Code</a></small>
+      <small><a href="https://github.com/cecilbowen/pokemon-sandwich-simulator">Github</a></small>
     </div>
   );
 }

@@ -1,37 +1,37 @@
 [
   {
-    "name": "Butter",
+    "name": "バター",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 12
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 12
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 2
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 2
       }
     ],
@@ -39,46 +39,46 @@
     "cid": 4
   },
   {
-    "name": "Chili Sauce",
+    "name": "チリソース",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 8
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 12
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 8
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 20
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 2
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 2
       }
     ],
@@ -86,50 +86,50 @@
     "cid": 6
   },
   {
-    "name": "Cream Cheese",
+    "name": "クリームチーズ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 12
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 12
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 12
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 4
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 4
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 4
       }
     ],
@@ -137,66 +137,66 @@
     "cid": 11
   },
   {
-    "name": "Curry Powder",
+    "name": "カレーパウダー",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 12
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 30
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -3
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": 21
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 2
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 2
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 2
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 2
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 2
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 2
       }
     ],
@@ -204,54 +204,54 @@
     "cid": 17
   },
   {
-    "name": "Horseradish",
+    "name": "ホースラディッシュ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -3
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": 21
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 2
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 2
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 2
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 2
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 2
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 2
       }
     ],
@@ -259,50 +259,50 @@
     "cid": 16
   },
   {
-    "name": "Jam",
+    "name": "ジャム",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 16
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 4
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 4
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 4
       }
     ],
@@ -310,42 +310,42 @@
     "cid": 12
   },
   {
-    "name": "Ketchup",
+    "name": "ケチャップ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 8
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 16
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 2
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 2
       }
     ],
@@ -353,54 +353,54 @@
     "cid": 2
   },
   {
-    "name": "Marmalade",
+    "name": "マーマレード",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 12
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 16
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 20
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 4
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 4
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 4
       }
     ],
@@ -408,38 +408,38 @@
     "cid": 13
   },
   {
-    "name": "Mayonnaise",
+    "name": "マヨネーズ",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 8
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 20
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 2
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 2
       }
     ],
@@ -447,50 +447,50 @@
     "cid": 1
   },
   {
-    "name": "Mustard",
+    "name": "マスタード",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 8
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 8
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 8
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 2
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 2
       }
     ],
@@ -498,46 +498,46 @@
     "cid": 3
   },
   {
-    "name": "Olive Oil",
+    "name": "オリーブオイル",
     "tastes": [
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 4
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 4
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 4
       }
     ],
@@ -545,38 +545,38 @@
     "cid": 14
   },
   {
-    "name": "Peanut Butter",
+    "name": "ピーナッツバター",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 16
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 12
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 2
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 2
       }
     ],
@@ -584,42 +584,42 @@
     "cid": 5
   },
   {
-    "name": "Pepper",
+    "name": "ペッパー",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 8
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 2
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 2
       }
     ],
@@ -630,35 +630,35 @@
     "name": "Salt",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 20
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 2
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 2
       }
     ],
@@ -666,50 +666,50 @@
     "cid": 7
   },
   {
-    "name": "Vinegar",
+    "name": "ビネガー",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 20
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 4
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 4
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 4
       }
     ],
@@ -717,58 +717,58 @@
     "cid": 15
   },
   {
-    "name": "Wasabi",
+    "name": "ワサビソース",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 20
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -3
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": 21
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 2
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 2
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 2
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 2
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 2
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 2
       }
     ],
@@ -776,42 +776,42 @@
     "cid": 18
   },
   {
-    "name": "Whipped Cream",
+    "name": "ホイップクリーム",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 20
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 5
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": -3
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 12
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -15
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 4
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 4
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 4
       }
     ],
@@ -819,38 +819,38 @@
     "cid": 10
   },
   {
-    "name": "Yogurt",
+    "name": "ヨーグルト",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 16
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 16
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": -3
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 2
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 2
       }
     ],
@@ -858,94 +858,94 @@
     "cid": 9
   },
   {
-    "name": "Bitter Herba Mystica",
+    "name": "ひでん：にがスパイス",
     "tastes": [
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 500
       }
     ],
     "powers": [
       {
-        "type": "Title",
+        "type": "二つ名",
         "amount": 1000
       },
       {
-        "type": "Sparkling",
+        "type": "かがやき",
         "amount": 1000
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 250
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 250
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 250
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 250
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 250
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 250
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 250
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 250
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 250
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 250
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 250
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 250
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 250
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 250
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 250
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 250
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 250
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 250
       }
     ],
@@ -953,94 +953,94 @@
     "cid": 22
   },
   {
-    "name": "Spicy Herba Mystica",
+    "name": "ひでん：からスパイス",
     "tastes": [
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 500
       }
     ],
     "powers": [
       {
-        "type": "Title",
+        "type": "二つ名",
         "amount": 1000
       },
       {
-        "type": "Sparkling",
+        "type": "かがやき",
         "amount": 1000
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 250
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 250
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 250
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 250
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 250
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 250
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 250
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 250
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 250
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 250
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 250
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 250
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 250
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 250
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 250
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 250
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 250
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 250
       }
     ],
@@ -1048,94 +1048,94 @@
     "cid": 23
   },
   {
-    "name": "Salty Herba Mystica",
+    "name": "ひでん：しおスパイス",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 500
       }
     ],
     "powers": [
       {
-        "type": "Title",
+        "type": "二つ名",
         "amount": 1000
       },
       {
-        "type": "Sparkling",
+        "type": "かがやき",
         "amount": 1000
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 250
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 250
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 250
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 250
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 250
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 250
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 250
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 250
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 250
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 250
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 250
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 250
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 250
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 250
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 250
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 250
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 250
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 250
       }
     ],
@@ -1143,94 +1143,94 @@
     "cid": 20
   },
   {
-    "name": "Sour Herba Mystica",
+    "name": "ひでん：すぱスパイス",
     "tastes": [
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 500
       }
     ],
     "powers": [
       {
-        "type": "Title",
+        "type": "二つ名",
         "amount": 1000
       },
       {
-        "type": "Sparkling",
+        "type": "かがやき",
         "amount": 1000
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 250
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 250
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 250
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 250
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 250
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 250
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 250
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 250
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 250
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 250
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 250
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 250
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 250
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 250
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 250
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 250
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 250
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 250
       }
     ],
@@ -1238,94 +1238,94 @@
     "cid": 21
   },
   {
-    "name": "Sweet Herba Mystica",
+    "name": "ひでん：あまスパイス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 500
       }
     ],
     "powers": [
       {
-        "type": "Title",
+        "type": "二つ名",
         "amount": 1000
       },
       {
-        "type": "Sparkling",
+        "type": "かがやき",
         "amount": 1000
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 250
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 250
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 250
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 250
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 250
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 250
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 250
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 250
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 250
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 250
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 250
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 250
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 250
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 250
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 250
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 250
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 250
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 250
       }
     ],

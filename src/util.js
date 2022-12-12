@@ -28,141 +28,140 @@ export const oneTwoFirst = [
 ];
 
 export const FLAVOR_TABLE = {
-  "Sweet": {
-    "Salty": "Egg",
-    "Sour": "Catch",
-    "Bitter": "Egg",
-    "Hot": "Raid",
+  "あま": {
+    "しお": "たまご",
+    "すぱ": "ほかく",
+    "にが": "たまご",
+    "から": "レイド",
   },
-  "Salty": {
-    "Sweet": "Encounter",
-    "Sour": "Encounter",
-    "Bitter": "Exp",
-    "Hot": "Encounter",
+  "しお": {
+    "あま": "そうぐう",
+    "すぱ": "そうぐう",
+    "にが": "けいけんち",
+    "から": "そうぐう",
   },
-  "Sour": {
-    "Sweet": "Catch",
-    "Salty": "Teensy",
-    "Bitter": "Teensy",
-    "Hot": "Teensy",
+  "すぱ": {
+    "あま": "ほかく",
+    "しお": "ちびちび",
+    "にが": "ちびちび",
+    "から": "ちびちび",
   },
-  "Bitter": {
-    "Sweet": "Item",
-    "Salty": "Exp",
-    "Sour": "Item",
-    "Hot": "Item",
+  "にが": {
+    "あま": "おとしもの",
+    "しお": "けいけんち",
+    "すぱ": "おとしもの",
+    "から": "おとしもの",
   },
-  "Hot": {
-    "Sweet": "Raid",
-    "Salty": "Humungo",
-    "Sour": "Humungo",
-    "Bitter": "Humungo",
+  "から": {
+    "あま": "レイド",
+    "しお": "でかでか",
+    "すぱ": "でかでか",
+    "にが": "でかでか",
   },
 };
 
 export const FLAVOR_PRIORITY_TABLE = {
-  "Sweet": {
-    "Salty": "Sweet",
-    "Sour": "Sweet",
-    "Bitter": "Sweet",
-    "Hot": "Sweet",
+  "あま": {
+    "しお": "あま",
+    "すぱ": "あま",
+    "にが": "あま",
+    "から": "あま",
   },
-  "Salty": {
-    "Sweet": "Sweet",
-    "Sour": "Salty",
-    "Bitter": "Salty",
-    "Hot": "Salty",
+  "しお": {
+    "あま": "あま",
+    "すぱ": "しお",
+    "にが": "しお",
+    "から": "しお",
   },
-  "Sour": {
-    "Sweet": "Sweet",
-    "Salty": "Salty",
-    "Bitter": "Sour",
-    "Hot": "Sour",
+  "すぱ": {
+    "あま": "あま",
+    "しお": "しお",
+    "にが": "すぱ",
+    "から": "すぱ",
   },
-  "Bitter": {
-    "Sweet": "Sweet",
-    "Salty": "Salty",
-    "Sour": "Sour",
-    "Hot": "Bitter",
+  "にが": {
+    "あま": "あま",
+    "しお": "しお",
+    "すぱ": "すぱ",
+    "から": "にが",
   },
-  "Hot": {
-    "Sweet": "Sweet",
-    "Salty": "Salty",
-    "Sour": "Sour",
-    "Bitter": "Bitter",
+  "から": {
+    "あま": "あま",
+    "しお": "しお",
+    "すぱ": "すぱ",
+    "にが": "にが",
   },
 };
 
 export const ALIAS_TO_FULL = { // power alias
-  "Egg": "Egg Power",
-  "Catch": "Catching Power",
-  "Item": "Item Drop Power",
-  "Humungo": "Humungo Power",
-  "Teensy": "Teensy Power",
-  "Raid": "Raid Power",
-  "Encounter": "Encounter Power",
-  "Exp": "Exp. Point Power",
-  "Title": "Title Power",
-  "Sparkling": "Sparkling Power",
+  "たまご": "たまご パワー",
+  "ほかく": "ほかく パワー",
+  "おとしもの": "おとしもの パワー",
+  "でかでか": "でかでか パワー",
+  "ちびちび": "ちびちび パワー",
+  "レイド": "レイド パワー",
+  "そうぐう": "そうぐう パワー",
+  "けいけんち": "けいけんち パワー",
+  "二つ名": "二つ名 パワー",
+  "かがやき": "かがやき パワー",
 };
 
 export const FULL_TO_ALIAS = { // power alias
-  "Egg Power": "Egg",
-  "Catching Power": "Catch",
-  "Item Drop Power": "Item",
-  "Humungo Power": "Humungo",
-  "Teensy Power": "Teensy",
-  "Raid Power": "Raid",
-  "Encounter Power": "Encounter",
-  "Exp. Point Power": "Exp",
-  "Title Power": "Title",
-  "Sparkling Power": "Sparkling",
+  "たまご パワー": "たまご",
+  "ほかく パワー": "ほかく",
+  "おとしもの パワー": "おとしもの",
+  "でかでか パワー": "でかでか",
+  "ちびちび パワー": "ちびちび",
+  "レイド パワー": "レイド",
+  "そうぐう パワー": "そうぐう",
+  "けいけんち パワー": "けいけんち",
+  "二つ名 パワー": "二つ名",
+  "かがやき パワー": "かがやき",
 };
 
 export const COLORS = {
   // flavors (5)
-  "Salty": "#e0ded4",
-  "Sweet": "#f79bcd",
-  "Hot": "rgba(200, 61, 18, 0.77)",
-  "Bitter": "rgb(166, 200, 72)",
-  "Sour": "#dbc60f",
+  "しお": "#e0ded4",
+  "あま": "#f79bcd",
+  "から": "rgba(200, 61, 18, 0.77)",
+  "にが": "rgb(166, 200, 72)",
+  "すぱ": "#dbc60f",
   // powers (10)
-  "Egg": "tan",
-  "Catch": "lightblue",
-  "Item": "lightgreen",
-  "Humungo": "lightgray",
-  "Teensy": "#06b3b3",
-  "Raid": "violet",
-  "Encounter": "#dfdf50",
-  "Exp": "tomato",
-  "Title": "sandybrown",
-  "Shiny": "cyan",
-  "Sparkling": "cyan",
+  "たまご": "tan",
+  "ほかく": "lightblue",
+  "おとしもの": "lightgreen",
+  "でかでか": "lightgray",
+  "ちびちび": "#06b3b3",
+  "レイド": "violet",
+  "そうぐう": "#dfdf50",
+  "けいけんち": "tomato",
+  "二つ名": "sandybrown",
+  "かがやき": "cyan",
   // types (18)
-	"Normal": '#A8A77A',
-	"Fire": '#EE8130',
-	"Water": '#6390F0',
-	"Electric": '#F7D02C',
-	"Grass": '#7AC74C',
-	"Ice": '#96D9D6',
-	"Fighting": 'rgba(194, 46, 40, 0.73)', //'#C22E28',
-	"Poison": 'rgba(163, 62, 161, 0.81)', //'#A33EA1',
-	"Ground": '#E2BF65',
-	"Flying": '#A98FF3',
-	"Psychic": '#F95587',
-	"Bug": '#A6B91A',
-	"Rock": '#B6A136',
-	"Ghost": 'rgba(115, 87, 151, 0.71)', //'#735797',
-	"Dragon": 'rgba(118, 73, 225, 0.83)', //'#6F35FC',
-	"Dark": 'rgba(112, 87, 70, 0.88)', //'#705746',
-	"Steel": '#B7B7CE',
-	"Fairy": '#D685AD',
+	"ノーマル": '#A8A77A',
+	"ほのお": '#EE8130',
+	"みず": '#6390F0',
+	"でんき": '#F7D02C',
+	"くさ": '#7AC74C',
+	"こおり": '#96D9D6',
+	"かくとう": 'rgba(194, 46, 40, 0.73)', //'#C22E28',
+	"どく": 'rgba(163, 62, 161, 0.81)', //'#A33EA1',
+	"じめん": '#E2BF65',
+	"ひこう": '#A98FF3',
+	"エスパー": '#F95587',
+	"むし": '#A6B91A',
+	"いわ": '#B6A136',
+	"ゴースト": 'rgba(115, 87, 151, 0.71)', //'#735797',
+	"ドラゴン": 'rgba(118, 73, 225, 0.83)', //'#6F35FC',
+	"あく": 'rgba(112, 87, 70, 0.88)', //'#705746',
+	"はがね": '#B7B7CE',
+	"フェアリー": '#D685AD',
   "All Types": 'aquamarine',
   "All Other Types": 'aquamarine',
 };
 
 export const TYPE_EXCEPTIONS = {
-  "39": ["Flying", "Poison", "Fighting"], // I'm convinced this is a game bug and it's only counting the flavors on apple once
+  "39": ["ひこう", "どく", "かくとう"], // I'm convinced this is a game bug and it's only counting the flavors on apple once
 };
 
 export const getFillings = strArr => {
@@ -564,7 +563,7 @@ export const checkPresetSandwich = (sums, fillings, condiments) => {
       const aType = ALIAS_TO_FULL[a.type];
       const bType = ALIAS_TO_FULL[b.type];
       return b.amount - a.amount || POWERS.indexOf(aType) - POWERS.indexOf(bType);
-    }).filter(x => x.type !== "Sparkling");
+    }).filter(x => x.type !== "かがやき");
     for (let i = 0; i < 3; i++) {
       const effect = foundSandwich.effects[i];
       const resultEffect = tempPowers[i];
@@ -607,7 +606,7 @@ export const craftSandwich = (fillings, condiments, sums, presetSandwich) => {
       amount: 0,
     });
   }
-  const formattedPowers = sums.powers.slice(0).filter(x => (x.type === "Sparkling" ? x.amount >= 2000 : x));
+  const formattedPowers = sums.powers.slice(0).filter(x => (x.type === "かがやき" ? x.amount >= 2000 : x));
   const myTypes = [];
 
   // default sandwich genset with accurate effects and type[1, 3, 2] as base
@@ -689,7 +688,7 @@ export const craftSandwich = (fillings, condiments, sums, presetSandwich) => {
 
   // remove types from egg powers
   for (const effect of generatedSandwich.effects) {
-    if (effect.name === "Egg Power") {
+    if (effect.name === "たまご パワー") {
       effect.type = "";
     }
   }

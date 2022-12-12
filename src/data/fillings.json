@@ -1,49 +1,49 @@
 [
   {
-    "name": "Apple",
+    "name": "わぎりリンゴ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 3
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 7
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 7
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 7
       }
     ],
@@ -53,34 +53,34 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Avocado",
+    "name": "アボカド",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 6
       }
     ],
@@ -90,42 +90,42 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Bacon",
+    "name": "やきベーコン",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 5
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 6
       }
     ],
@@ -135,46 +135,46 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Banana",
+    "name": "バナナスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 7
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 7
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 7
       }
     ],
@@ -184,70 +184,70 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Basil",
+    "name": "バジル",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 2
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 2
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": -2
       }
     ],
     "types": [
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 1
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 1
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 1
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 1
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 1
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 1
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 1
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 1
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 1
       }
     ],
@@ -257,106 +257,106 @@
     "maxPiecesOnDish": 4
   },
   {
-    "name": "Cheese",
+    "name": "スライスチーズ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 2
       },
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 2
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 2
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": -2
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 5
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 5
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 5
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 5
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 5
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 5
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 5
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 5
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 5
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 5
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 5
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 5
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 5
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 5
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 5
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 5
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 5
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 5
       }
     ],
@@ -366,38 +366,38 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Cherry Tomatoes",
+    "name": "カットミニトマト",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 5
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 6
       }
     ],
@@ -407,58 +407,58 @@
     "maxPiecesOnDish": 9
   },
   {
-    "name": "Chorizo",
+    "name": "やきチョリソー",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 2
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 7
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 4
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 12
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 12
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 12
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 12
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 12
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 12
       }
     ],
@@ -468,34 +468,34 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Cucumber",
+    "name": "キュウリスライス",
     "tastes": [
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 6
       }
     ],
@@ -505,58 +505,58 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Egg",
+    "name": "スライスエッグ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 2
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 7
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 4
       }
     ],
     "types": [
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 12
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 12
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 12
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 12
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 12
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 12
       }
     ],
@@ -566,70 +566,70 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Fried Fillet",
+    "name": "きりみフライ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 3
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 21
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 12
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": -3
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 20
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 20
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 20
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 20
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 20
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 20
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 20
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 20
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 20
       }
     ],
@@ -639,38 +639,38 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Green Bell Pepper",
+    "name": "ピーマンスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 5
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 6
       }
     ],
@@ -680,34 +680,34 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Ham",
+    "name": "ハムスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 5
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 6
       }
     ],
@@ -717,38 +717,38 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Hamburger",
+    "name": "ハンバーグ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 6
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 12
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 9
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 12
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -3
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 21
       }
     ],
     "types": [
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 18
       }
     ],
@@ -758,58 +758,58 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Herbed Sausage",
+    "name": "ハーブソーセージ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Exp",
+        "type": "けいけんち",
         "amount": 7
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 4
       }
     ],
     "types": [
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 12
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 12
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 12
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 12
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 12
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 12
       }
     ],
@@ -819,46 +819,46 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Jalapeno",
+    "name": "ハラペーニョ",
     "tastes": [
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 2
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 5
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 7
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 7
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 7
       }
     ],
@@ -868,50 +868,50 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Kiwi",
+    "name": "わぎりキウイ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 5
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 7
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 7
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 7
       }
     ],
@@ -921,34 +921,34 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Klawf Stick",
+    "name": "ガケガニスティック",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 6
       }
     ],
@@ -958,34 +958,34 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Lettuce",
+    "name": "レタス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 2
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 6
       }
     ],
@@ -995,50 +995,50 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Noodles",
+    "name": "ヌードル",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": 21
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -3
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 30
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 30
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 30
       },
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 30
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 30
       },
       {
-        "type": "Ice",
+        "type": "こおり",
         "amount": 30
       }
     ],
@@ -1048,38 +1048,38 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Onion",
+    "name": "たまねぎスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 6
       }
     ],
@@ -1089,38 +1089,38 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Pickle",
+    "name": "ピクルススライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 2
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 6
       }
     ],
@@ -1130,50 +1130,50 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Pineapple",
+    "name": "カットパイン",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 5
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 7
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 7
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 7
       }
     ],
@@ -1183,62 +1183,62 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Potato Salad",
+    "name": "ポテトサラダ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": 21
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -3
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 30
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 30
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 30
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 30
       },
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 30
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 30
       }
     ],
@@ -1248,78 +1248,78 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Potato Tortilla",
+    "name": "トルティージャ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 3
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 21
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 12
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": -3
       }
     ],
     "types": [
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 20
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 20
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 20
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 20
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 20
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 20
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 20
       },
       {
-        "type": "Dragon",
+        "type": "ドラゴン",
         "amount": 20
       },
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 20
       }
     ],
@@ -1329,38 +1329,38 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Prosciutto",
+    "name": "なまハム",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 6
       }
     ],
@@ -1370,38 +1370,38 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Red Bell Pepper",
+    "name": "あかパプリカスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 6
       }
     ],
@@ -1411,34 +1411,34 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Red Onion",
+    "name": "アーリーレッド",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 6
       }
     ],
@@ -1448,54 +1448,54 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Rice",
+    "name": "ライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": 21
       },
       {
-        "type": "Teensy",
+        "type": "ちびちび",
         "amount": -3
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 12
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 30
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 30
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 30
       },
       {
-        "type": "Fire",
+        "type": "ほのお",
         "amount": 30
       },
       {
-        "type": "Water",
+        "type": "みず",
         "amount": 30
       },
       {
-        "type": "Grass",
+        "type": "くさ",
         "amount": 30
       }
     ],
@@ -1505,42 +1505,42 @@
     "maxPiecesOnDish": 1
   },
   {
-    "name": "Smoked Fillet",
+    "name": "スモークきりみ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 3
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 2
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Dark",
+        "type": "あく",
         "amount": 6
       }
     ],
@@ -1550,46 +1550,46 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Strawberry",
+    "name": "いちごスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 4
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 4
       },
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": -1
       },
       {
-        "type": "Item",
+        "type": "おとしもの",
         "amount": 7
       },
       {
-        "type": "Humungo",
+        "type": "でかでか",
         "amount": -5
       }
     ],
     "types": [
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 7
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 7
       },
       {
-        "type": "Psychic",
+        "type": "エスパー",
         "amount": 7
       }
     ],
@@ -1599,30 +1599,30 @@
     "maxPiecesOnDish": 6
   },
   {
-    "name": "Tofu",
+    "name": "トーフ",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 6
       }
     ],
@@ -1632,38 +1632,38 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Tomato",
+    "name": "トマトスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 2
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 4
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Fairy",
+        "type": "フェアリー",
         "amount": 6
       }
     ],
@@ -1673,74 +1673,74 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Watercress",
+    "name": "クレソン",
     "tastes": [
       {
-        "flavor": "Salty",
+        "flavor": "しお",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 2
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 5
       },
       {
-        "flavor": "Hot",
+        "flavor": "から",
         "amount": 1
       }
     ],
     "powers": [
       {
-        "type": "Egg",
+        "type": "たまご",
         "amount": 2
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": 2
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": -2
       }
     ],
     "types": [
       {
-        "type": "Normal",
+        "type": "ノーマル",
         "amount": 1
       },
       {
-        "type": "Fighting",
+        "type": "かくとう",
         "amount": 1
       },
       {
-        "type": "Flying",
+        "type": "ひこう",
         "amount": 1
       },
       {
-        "type": "Poison",
+        "type": "どく",
         "amount": 1
       },
       {
-        "type": "Ground",
+        "type": "じめん",
         "amount": 1
       },
       {
-        "type": "Rock",
+        "type": "いわ",
         "amount": 1
       },
       {
-        "type": "Bug",
+        "type": "むし",
         "amount": 1
       },
       {
-        "type": "Ghost",
+        "type": "ゴースト",
         "amount": 1
       },
       {
-        "type": "Steel",
+        "type": "はがね",
         "amount": 1
       }
     ],
@@ -1750,38 +1750,38 @@
     "maxPiecesOnDish": 3
   },
   {
-    "name": "Yellow Bell Pepper",
+    "name": "きパプリカスライス",
     "tastes": [
       {
-        "flavor": "Sweet",
+        "flavor": "あま",
         "amount": 1
       },
       {
-        "flavor": "Sour",
+        "flavor": "すぱ",
         "amount": 1
       },
       {
-        "flavor": "Bitter",
+        "flavor": "にが",
         "amount": 3
       }
     ],
     "powers": [
       {
-        "type": "Catch",
+        "type": "ほかく",
         "amount": 4
       },
       {
-        "type": "Raid",
+        "type": "レイド",
         "amount": -1
       },
       {
-        "type": "Encounter",
+        "type": "そうぐう",
         "amount": 7
       }
     ],
     "types": [
       {
-        "type": "Electric",
+        "type": "でんき",
         "amount": 6
       }
     ],

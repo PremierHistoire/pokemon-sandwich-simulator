@@ -139,10 +139,10 @@ const Card = props => {
         </div>}
         {isSum && <div className='bubble bubble-header' title={sumStr} onClick={() => copyValues(tastes, powers, types)}>
             <img alt={"Total"} src="https://www.serebii.net/itemdex/sprites/sandwich.png" />
-            <div>Total Stats</div>
+            <div>ステータス合計</div>
         </div>}
         {!isSum && ingredient && isFilling(ingredient) && <div className="pieces">
-            <div title='How many pieces of this filling to put on sandwich'>Pieces: {ingredient.pieces}</div>
+            <div title='How many pieces of this filling to put on sandwich'>ピース: {ingredient.pieces}</div>
             <button className='piece-button' onClick={() => modifyPieces(-1)}>-</button>
             <button className='piece-button' onClick={() => modifyPieces(1)}>+</button>
         </div>}
@@ -155,7 +155,7 @@ const Card = props => {
         </div>}
         {/*!isSum && <button className='expand-button' onClick={props?.onClick}></button>*/}
         {props.number !== undefined && <div className='numbering'>{props.number + 1}</div>}
-        {!isSum && !props.simpleMode && <div className='expand-help' onClick={props?.onClick}>{showStats ? "Click to minimize" : "expand"}</div>}
+        {!isSum && !props.simpleMode && <div className='expand-help' onClick={props?.onClick}>{showStats ? "縮小" : "拡大"}</div>}
       </div>
     );
 };
